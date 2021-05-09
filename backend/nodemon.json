@@ -1,0 +1,7 @@
+{
+  "watch": [
+    "src"
+  ],
+  "ext": "ts",
+  "exec": "yarn run build && node -r dotenv/config ./dist/index.js"
+}

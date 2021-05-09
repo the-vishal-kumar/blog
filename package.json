@@ -12,6 +12,13 @@
     "yarn": "1.x",
     "node": "14.x"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-vishal-kumar/blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/the-vishal-kumar/blog.git/issues"
+  },
   "author": "Vishal Kumar",
-  "license": "ISC"
+  "license": "MIT"
 }
